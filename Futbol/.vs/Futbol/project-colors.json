@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3e1db93e-136f-4450-b3a3-85045f9cf841": {
+      "ProjectGuid": "3e1db93e-136f-4450-b3a3-85045f9cf841",
+      "DisplayName": "Futbol",
+      "ColorIndex": 0
+    },
+    "d5b1d8cf-7944-4438-abfa-77137cb350ce": {
+      "ProjectGuid": "d5b1d8cf-7944-4438-abfa-77137cb350ce",
+      "DisplayName": "Entity",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
